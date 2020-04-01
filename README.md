@@ -256,7 +256,14 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 >   - ...
 > - [TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 > - Programming is just the most straightforward part of being an engineer.
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+> - Slow Down: Slow-down, chill-out, and try to write as neatly (organised) as possible.
+> - Ask Questions: Many interview questions are intentionally vague to see how you handle uncertainty and what assumptions you make. If you are implementing an algorithm, what are the constraints? Memory, runtime, size of inputs, etc.
+> - Code how you'd normally code
+> - Check your work
+> - Practice
+> - Do your research
+> - Have fun
 - [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] How to Get a Job at the Big 4:
