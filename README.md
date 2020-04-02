@@ -264,7 +264,12 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 > - Practice
 > - Do your research
 > - Have fun
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+- [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+> - Notes and figures on the side: use a cornor of the whiteboard to note reqs or figures.
+> - Write clearly.
+> - Use space efficiently. (most interview questions span at least 15-20 lines of code)
+> - Edits are part of the game: Don't be afraid to change code.
+> - Practice!
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
