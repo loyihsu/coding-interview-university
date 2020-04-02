@@ -240,23 +240,25 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 ## Interview Process & General Interview Prep
 
 - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-> **Quick Summary**
+
 > - Master at least one multi-paradigm language (e.g. C#, C++, Java, PHP, Python or Ruby)
 > - [Complexity Cheatsheet](http://bigocheatsheet.com/)
 > - Practice Implementing Common DS, don't use common libs:
->   - Vector (dynamic array)
->   - Linked List
->   - Stack
->   - Queue
->   - Circular Queue
->   - Hash map
->   - Set
->   - Priority Queue
->   - Binary Search Tree
->   - ...
+>     - Vector (dynamic array)
+>     - Linked List
+>     - Stack
+>     - Queue
+>     - Circular Queue
+>     - Hash map
+>     - Set
+>     - Priority Queue
+>     - Binary Search Tree
+>     - ...
 > - [TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 > - Programming is just the most straightforward part of being an engineer.
+
 - [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+
 > - Slow Down: Slow-down, chill-out, and try to write as neatly (organised) as possible.
 > - Ask Questions: Many interview questions are intentionally vague to see how you handle uncertainty and what assumptions you make. If you are implementing an algorithm, what are the constraints? Memory, runtime, size of inputs, etc.
 > - Code how you'd normally code
@@ -264,12 +266,15 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 > - Practice
 > - Do your research
 > - Have fun
+
 - [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+
 > - Notes and figures on the side: use a cornor of the whiteboard to note reqs or figures.
 > - Write clearly.
 > - Use space efficiently. (most interview questions span at least 15-20 lines of code)
 > - Edits are part of the game: Don't be afraid to change code.
 > - Practice!
+
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
