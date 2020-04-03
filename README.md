@@ -275,7 +275,27 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 > - Edits are part of the game: Don't be afraid to change code.
 > - Practice!
 
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+- [x] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+
+> **Recruiter Screen**
+>
+> - Recruiting Process != Black Box
+> - 'Are you passionate about your work?'
+> - Share!
+>    - open source (GitHub)
+>    - published work
+>    - social media
+>    - attend conferences, meetups
+>    - be somewhere!
+>
+> **Technical Screen**: Usually Coding thru Collab Docs
+>
+> **Onsite Interview**: Whiteboarding
+>
+> **Interviewer Debrief & Candidate Review**
+>
+> **Offer**
+
 - [ ] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 - [ ] Cracking The Coding Interview Set 1:
