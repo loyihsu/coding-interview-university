@@ -296,8 +296,29 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 >
 > **Offer**
 
-- [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [x] How to Get a Job at the Big 4:
+    - [x] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+
+> - Why the big 4? *Brand equity*, *pay*, *easier?*
+>   - Programming is above programming language.
+> - [Glassdoor](https://www.glassdoor.com/index.htm)
+> - [Leetcode](https://leetcode.com)
+> - How?
+>   - *Get an interview*
+>       - Apply with Resume: Make everything count.
+>           - Do projects.
+>           - Join Hackathon.
+>       - Programming Challenges
+>       - Referrals
+>   - *Do well on the interviews*
+>       - Coding Questions
+>           - Cracking the Coding Interview (CtCI)
+>           - Programming Interview Exposed (PIE)
+>       - Practice! Mock interviews!
+>       - Master certain questions: when a question of similar property comes up, you'll recognise it.
+>   - 'You can't get discouraged. This preparation we're doing right now isn't for a specific event. It isn't for a specific interview. This is part of our lives now. If you get nothing this year, you're just preparing for next year.' --- Sean Lee
+>   - 'You don't need to put down how many times you failed on your resume.' --- Sean Lee
+
 - [ ] Cracking The Coding Interview Set 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
