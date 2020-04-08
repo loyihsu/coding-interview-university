@@ -308,9 +308,9 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 >   - 'You can't get discouraged. This preparation we're doing right now isn't for a specific event. It isn't for a specific interview. This is part of our lives now. If you get nothing this year, you're just preparing for next year.' --- Sean Lee
 >   - 'You don't need to put down how many times you failed on your resume.' --- Sean Lee
 
-- [ ] Cracking The Coding Interview Set 1:
+- [x] Cracking The Coding Interview Set 1:
     - [x] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+    - [x] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 
 > - Intelligence (Analytical Skills) (50%)
 > - Arrogant (X)
@@ -408,6 +408,10 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 >   - You have no idea how well/poorly you did
 >   - Lots of randomness.
 
+> Step 1: Ask Questions
+> Step 2: Talk out loud
+> Step 3: Write codes (a little comments is enough)
+> Step 4: Check your code for errors
 
 - [ ] Cracking the Facebook Coding Interview
     - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
