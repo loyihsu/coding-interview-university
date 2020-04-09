@@ -416,6 +416,43 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 - [ ] Cracking the Facebook Coding Interview
     - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
     - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
+
+> **The Approach**
+>
+> - Your recruiter wants you to do well.
+> - What to Expect
+>   - Phone - Algo / Coding
+>   - Onsite
+>       - Behavioral + algo
+>       - Design
+>       - Algo / Coding
+>       - Algo / Coding
+>   - Hiring Committee & Decision
+> - Typical Tech Interview
+>   - (5 min) Prior Experience
+>   - (45 min) 2 Questions (typically)
+>   - (5 min) Questions for Interviewer
+> - Behavioral Questions (How you frame it matters more than the exact content)
+>   - Your Two-Minute Pitch
+>       - Shows of success
+>       - Prompt the interviewer
+>       - Hobbies
+>   - Your Past Work
+>       - 1 -- 2 Hard Projects: Hard/Cool, you were central, technical depth
+>   - All Past Work
+>       - Challenges, architecture, tradeoffs, mistakes, successes, motivations
+>       - Teamwork, leadership, conflicts, etc.
+> - Design Questions
+>   - Approach
+>       - What would you do at work?
+>       - Scope (Ask), Key components, Identify issues, repair
+>   - How to Prepare
+>       - Read about design of major companies.
+>       - Know key concepts
+>       - Practice back-of-the-envelope calculations
+
+Continue: https://youtu.be/wCl9kvQGHPI?t=1549
+
 - [ ] Prep Course:
     - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
