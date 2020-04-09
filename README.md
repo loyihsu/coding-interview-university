@@ -452,6 +452,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 >       - Practice back-of-the-envelope calculations
 
 Continue: https://youtu.be/wCl9kvQGHPI?t=1549
+Slides: https://docs.google.com/presentation/d/1O1yUtP4SC1WAkBDEg6HQFiZZDIlPPrS8y9bF7jJQwog/edit#slide=id.g1d214e556a_0_923
 
 - [ ] Prep Course:
     - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
