@@ -450,8 +450,22 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 >       - Read about design of major companies.
 >       - Know key concepts
 >       - Practice back-of-the-envelope calculations
+> - Algorithm Questions
+>   - Why
+>       - Analytical skills
+>       - How you think
+>       - Make tradeoffs
+>       - Push through hard problems
+>       - Communication
+>       - Strong CS fundamentals
+>   - Preparation
+>       - Master O() notation
+>       - Implement DS/Algo
+>       - Practice with interview questions
+>       - Code on paper/whiteboard
+>       - Mock interviews
 
-Continue: https://youtu.be/wCl9kvQGHPI?t=1549
+Continue: https://youtu.be/wCl9kvQGHPI?t=3026
 Slides: https://docs.google.com/presentation/d/1O1yUtP4SC1WAkBDEg6HQFiZZDIlPPrS8y9bF7jJQwog/edit#slide=id.g1d214e556a_0_923
 
 - [ ] Prep Course:
