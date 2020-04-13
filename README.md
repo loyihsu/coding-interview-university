@@ -459,13 +459,28 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 >       - Communication
 >       - Strong CS fundamentals
 >   - Preparation
->       - Master O() notation
+>       - Master Big-Oh notation
 >       - Implement DS/Algo
 >       - Practice with interview questions
 >       - Code on paper/whiteboard
 >       - Mock interviews
+>   - Solving Algorithms: 
+>       - A test for problem solving
+>       - What is NOT expected
+>           - To know the answers
+>           - To solve immediately
+>           - To code perfectly
+>       - What IS expected
+>           - Be excite about hard problems
+>           - Drive!
+>               - Keep trying when stuck
+>               - More than just 'correct'
+>           - Pay attention to me!
+>           - Write real code
+>       - How to approach: http://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf
 
-Continue: https://youtu.be/wCl9kvQGHPI?t=3026
+Continue: https://youtu.be/wCl9kvQGHPI?t=5501
+
 Slides: https://docs.google.com/presentation/d/1O1yUtP4SC1WAkBDEg6HQFiZZDIlPPrS8y9bF7jJQwog/edit#slide=id.g1d214e556a_0_923
 
 - [ ] Prep Course:
