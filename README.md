@@ -414,7 +414,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 > Step 4: Check your code for errors
 
 - [ ] Cracking the Facebook Coding Interview
-    - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
+    - [x] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
     - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
 
 > **The Approach**
