@@ -413,9 +413,9 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 > Step 3: Write codes (a little comments is enough)
 > Step 4: Check your code for errors
 
-- [ ] Cracking the Facebook Coding Interview
+- [x] Cracking the Facebook Coding Interview
     - [x] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
-    - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
+    - [x] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
 
 > **The Approach**
 >
@@ -478,8 +478,6 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 >           - Pay attention to me!
 >           - Write real code
 >       - How to approach: http://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf
-
-Continue: https://youtu.be/wCl9kvQGHPI?t=5501
 
 Slides: https://docs.google.com/presentation/d/1O1yUtP4SC1WAkBDEg6HQFiZZDIlPPrS8y9bF7jJQwog/edit#slide=id.g1d214e556a_0_923
 
