@@ -1,0 +1,241 @@
+# Interview Process & General Interview Prep Notes
+
+## ABC: Always Be Coding
+
+- Master at least one multi-paradigm language (e.g. C#, C++, Java, PHP, Python or Ruby)
+- [Complexity Cheatsheet](http://bigocheatsheet.com/)
+- Practice Implementing Common DS, don't use common libs:
+    - Vector (dynamic array)
+    - Linked List
+    - Stack
+    - Queue
+    - Circular Queue
+    - Hash map
+    - Set
+    - Priority Queue
+    - Binary Search Tree
+    - ...
+- [TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+- Programming is just the most straightforward part of being an engineer.
+- [Source](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+
+## Whiteboarding
+
+- Slow Down: Slow-down, chill-out, and try to write as neatly (organised) as possible.
+- Ask Questions: Many interview questions are intentionally vague to see how you handle uncertainty and what assumptions you make. If you are implementing an algorithm, what are the constraints? Memory, runtime, size of inputs, etc.
+- Code how you'd normally code
+- Check your work
+- Practice
+- Do your research
+- Have fun
+- [Source](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+
+### Effective Whiteboarding during Programming Interviews
+
+- Notes and figures on the side: use a cornor of the whiteboard to note reqs or figures.
+- Write clearly.
+- Use space efficiently. (most interview questions span at least 15-20 lines of code)
+- Edits are part of the game: Don't be afraid to change code.
+- Practice!
+- [Source](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+
+## Recruting
+
+- **Recruiter Screen**
+    - Recruiting Process != Black Box
+    - 'Are you passionate about your work?'
+    - Share!
+        - open source (GitHub)
+        - published work
+        - social media
+        - attend conferences, meetups
+        - be somewhere!
+- **Technical Screen**: Usually Coding thru Collab Docs
+- **Onsite Interview**: Whiteboarding
+- **Interviewer Debrief & Candidate Review**
+- **Offer**
+- [Source](https://www.youtube.com/watch?v=N233T0epWTs)
+
+### How to get a job at the Big 4
+
+- Why the big 4? *Brand equity*, *pay*, *easier?*
+    - Programming is above programming language.
+- [Glassdoor](https://www.glassdoor.com/index.htm)
+- [Leetcode](https://leetcode.com)
+- How?
+  - *Get an interview*
+      - Apply with Resume: Make everything count.
+          - Do projects.
+          - Join Hackathon.
+      - Programming Challenges
+      - Referrals
+  - *Do well on the interviews*
+      - Coding Questions
+        - Cracking the Coding Interview (CtCI)
+        - Programming Interview Exposed (PIE)
+    - Practice! Mock interviews!
+    - Master certain questions: when a question of similar property comes up, you'll recognise it.
+- 'You can't get discouraged. This preparation we're doing right now isn't for a specific event. It isn't for a specific interview. This is part of our lives now. If you get nothing this year, you're just preparing for next year.' --- Sean Lee
+- 'You don't need to put down how many times you failed on your resume.' --- Sean Lee
+- [Source (Video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+
+### Crackig The Coding Interview
+
+- Intelligence (Analytical Skills) (50%)
+- Arrogant (X)
+- Understanding of the technologies
+- Entrepreneurial
+- Personality
+- You are considered relative to other candidates.
+- Resume
+  - Build something. Do projects. Open-source.
+  - Recruiters only have time to skim through your resume.
+  - 1 page only.
+  - Use an actual resume template.
+  - Focus on your impact, not your responsibility. 
+- Bahavioural Questions: Answer the good answer. *Communicate* well.
+  - Create Preparation Grid for Projects (Enjoyed, Hated, Most Challenging, Hardest Bug for each project)
+  - Nugget First: Lead with your 'thesis'
+  - S.A.R.: Situation, Action, Result
+- **Technical Skills**
+  - How to study?
+      - Study the basics: complex algorithms generally unnecessary
+      - Prctice solving questions: Don't memorise!
+          - CtCI & [CareerCup.com](https://careercup.com)
+      - Push yourself.
+  - Data Structures
+      - How to implement?
+      - When to use (pros / cons)
+          - Linked Lists
+          - Stacks
+          - Queues
+          - Trees
+          - Tries
+          - Graphs
+          - Vectors
+          - Heaps
+          - **Hashtables**
+  - Algorithms
+      - Implementation
+      - Space vs. Time Complexity
+          - Quick Sort
+          - Merge Sort
+          - **Tree Insert / Find**
+          - Binary Search
+          - Breadth-First Search
+          - **Depth-First Search**
+  - Concepts
+      - Not just a concept --- know how to code!
+          - Threading
+          - **System Design & Scalability**
+          - Memory Management
+          - **Recursion**
+          - Probability + Combinatorics
+          - **Bit Manipulation**
+- Mastering the Interview
+  - Type of 'Serious' Questions
+      - Product Design Questions
+          - **Why?**
+              - Communication & Structured Thinking
+              - Ability to understand the user
+              - Creativity
+              - Business instincts / skills
+              - Ex. How would you design a calculator for the blind?
+          - **Approach**
+              - Ask questions to resolve ambiguity
+              - Understand the user
+              - Structure the problem    
+              - Solve piece by piece
+      - Estimation Questions
+          - **Why?**
+              - Problem Solving
+              - Basic Quantitative Skills
+          - **Approach**
+              - Ask questions to resolve ambiguity
+              - Outline / Structure your approach
+              - Breakdown the components
+              - Sanity Check
+      - Software Engineering Questions
+          - Coding & Algorithm
+          - Object Oriented Design
+          - Scalability
+          - **Approach**
+              - Ask Questions!
+              - Talk out loud
+              - Think critically
+              - Code slowly and methodically
+              - Test your code
+- After Your Interview
+  - Follow up with your recruiter (no response != rejection)
+  - You have no idea how well/poorly you did
+  - Lots of randomness.
+- Basically
+    - Step 1: Ask Questions
+    - Step 2: Talk out loud
+    - Step 3: Write codes (a little comments is enough)
+    - Step 4: Check your code for errors
+- [Source Video (1)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+- [Source Video (2)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+
+#### Cracking the Facebook Coding Interview
+
+- **The Approach**
+    - Your recruiter wants you to do well.
+    - What to Expect
+        - Phone - Algo / Coding
+        - Onsite
+            - Behavioral + algo
+            - Design
+            - Algo / Coding
+    - Hiring Committee & Decision
+    - Typical Tech Interview
+        - (5 min) Prior Experience
+        - (45 min) 2 Questions (typically)
+        - (5 min) Questions for Interviewer
+        - Behavioral Questions (How you frame it matters more than the exact content)
+            - Your Two-Minute Pitch
+            - Shows of success
+            - Prompt the interviewer
+            - Hobbies
+        - Your Past Work
+            - 1 -- 2 Hard Projects: Hard/Cool, you were central, technical depth
+            - All Past Work
+            - Challenges, architecture, tradeoffs, mistakes, successes, motivations
+            - Teamwork, leadership, conflicts, etc.
+        - Design Questions
+            - Approach
+                - What would you do at work?
+                - Scope (Ask), Key components, Identify issues, repair
+            - How to Prepare
+                - Read about design of major companies.
+                - Know key concepts
+                - Practice back-of-the-envelope calculations
+        - Algorithm Questions
+            - Why
+                - Analytical skills
+                - How you think
+                - Make tradeoffs
+                - Push through hard problems
+                - Communication
+                - Strong CS fundamentals
+            - Preparation
+                - Master Big-Oh notation
+                - Implement DS/Algo
+                - Practice with interview questions
+                - Code on paper/whiteboard
+                - Mock interviews
+            - Solving Algorithms: A test for problem solving
+                - What is NOT expected
+                    - To know the answers
+                    - To solve immediately
+                    - To code perfectly
+                - What IS expected
+                    - Be excite about hard problems
+                    - Drive!
+                    - Keep trying when stuck
+                    - More than just 'correct'
+                    - Pay attention to me!
+                    - Write real code
+                - How to approach: http://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf
+                - Slides: https://docs.google.com/presentation/d/1O1yUtP4SC1WAkBDEg6HQFiZZDIlPPrS8y9bF7jJQwog/edit#slide=id.g1d214e556a_0_923
+                - [Source Video](https://www.youtube.com/watch?v=4UWDyJq8jZg)
