@@ -20,6 +20,7 @@
 - [Español](translations/README-es.md)
 - [Português Brasileiro](translations/README-ptbr.md)
 - [Polish](translations/README-pl.md)
+- [繁體中文](translations/README-tw.md)
 
 </details>
 
@@ -1204,7 +1205,7 @@ Graphs can be used to represent many problems in computer science, so this secti
             - rough overview of any key algorithm that drives the service
             - consider bottlenecks and determine solutions
     - Exercises:
-        - [Design a CDN network: old article](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2112&context=compsci)
+        - [Design a CDN network: old article](https://kilthub.cmu.edu/articles/Globally_distributed_content_delivery/6605972)
         - [Design a random unique ID generation system](https://blog.twitter.com/2010/announcing-snowflake)
         - [Design an online multiplayer card game](http://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html)
         - [Design a key-value database](http://www.slideshare.net/dvirsky/introduction-to-redis)
@@ -1314,6 +1315,7 @@ Mock Interviews:
 - [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - I used this and it helped me relax for the phone screen and on-site interview.
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
 - [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies.
+- [interviewing.io: Practice mock interview with senior engineers](https://interviewing.io) - anonymous algorithmic/systems design interviews with senior engineers from FAANG anonymously. 
 
 
 ## Once you're closer to the interview
