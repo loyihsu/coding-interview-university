@@ -1,6 +1,6 @@
 # Dictionary: Abstract Data Tyepe (ADT)
 
-* Video: [MIT OPenCourse: ITA Dictionary](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
+* Video: [MIT OpenCourse: ITA Dictionary](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
 
 Maintain set of items, each with a *key*.
 
@@ -57,3 +57,53 @@ Each key is equally likely to be hashed to any slot of the table, independent of
 2. multiplication method: `[(a*k) mod 2^w] >> (w-r)`
 3. Universal hashing: `h(k)=[(ak+b)mod p] mod m`
 
+# Table Doubling
+
+* Video: [MIT OpenCourse: Table Doubling](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+
+## How to choose `m`?
+
+Idea: Start small; grow/shrink when needed
+
+* If m > n: grow table
+* If m == n/4: shrink table to m/2
+
+### Grow Table
+
+* make a table of the new size
+* rehash
+
+Double the size: O(1+2+4+8+...+N) = O(N)
+Add one space: O(1+2+3+4+5...+N) = O(N^2)
+
+#### Amortization
+
+- Operation takes "T(N) amortized" if k operations take <= k*t(N) time
+
+* k inserts take O(k) time
+* O(1) amortized/insert
+
+## String matching
+
+* Simple way: search through all and find one: O(|s|\*(|t|-|s|) = O(|s|\*|t|)
+
+### Rolling hash ADT
+
+* r.append(c): Add char c to end of X
+* r.skip(c): Delete first char of X
+* r reamins a string x
+
+#### Karp-Rabin algorithm
+
+```
+for c in s: rs.append(c)
+for c in t[:len(s)]: rt.append(c)
+if rs() == rt():
+	for i in range(len(s)):
+		rt.skip(t[i-len(s)]
+		rt.append(t[i])
+		if rs() == rt():
+			check whether s == t[i-len(s)+1:i+1]
+			if equal: found match
+			else : happens with probability <= 1/|s|
+```
