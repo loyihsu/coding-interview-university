@@ -621,8 +621,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### Binary search
     - [x] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
     - [x] [Binary Search](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
-    - [ ] [detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
-    - [ ] Implement:
+    - [x] [detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
+    - [ ] Implement: <!--TODO: Implement this-->
         - binary search (on sorted array of integers)
         - binary search using recursion
 
