@@ -635,11 +635,11 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
         - [x] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
         - [x] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
-        - [-] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
+        - [ ] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
         - [x] [The Bit Twiddler](https://bits.stephan-brumme.com/)
         - [ ] [The Bit Twiddler Interactive](https://bits.stephan-brumme.com/interactive.html)
         - [x] [Bit Hacks (video)](https://www.youtube.com/watch?v=ZusiKXcz_ac)
-    - [ ] 2s and 1s complement
+    - [x] 2s and 1s complement
         - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
         - [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
         - [2s Complement](https://en.wikipedia.org/wiki/Two%27s_complement)
