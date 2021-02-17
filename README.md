@@ -916,49 +916,48 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [s] [Simonson: Dynamic programming II - Lecture 12 (video)](https://www.youtube.com/watch?v=v1qiRwuJU7g&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=12)
     - [ ] List of individual DP problems (each is short):
         [Dynamic Programming (video)](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-      - [x] Longest Common Subsequence
-      - [x] Subset Sum Problem Dynamic Programming
-      - [x] Coin Changing Minimum Number of Coins Dynamic programming
-      - [x] Coin Changing Number of ways to get total dynamic programming
-      - [x] Longest Common Substring
-      - [x] Minimum Cost Path Dynamic Programming
-      - [x] Maximum Size Rectangle of All 1's Dynamic Programming
-      - [ ] Minimum Edit Distance Dynamic Programming
-      - [ ] Longest Increasing Subsequence
-      - [ ] Longest Palindromic Subsequence
-      - [ ] Cutting Rod dynamic programming
-      - [ ] 0/1 Knapsack Problem Dynamic Programming
-      - [ ] Matrix Chain Multiplication
-      - [ ] Optimal Binary Search Tree
-      - [ ] Regular Expression Dynamic Programming
-      - [ ] Coin Changing Minimum Coins Dynamic Programming
-      - [ ] Egg Dropping Dynamic Programming
-      - [ ] Maximum Sum Rectangular Submatrix in Matrix dynamic programming/2D kadane
-      - [ ] Weighted Job Scheduling Dynamic Programming
-      - [ ] Word Break Problem Dynamic Programming
-      - [ ] Buy/Sell Stock With K transactions To Maximize Profit Dynamic Programming
-      - [ ] Minimum jump to reach end
-      - [ ] Wildcard Matching Dynamic Programming
-      - [ ] Text Justification Dynamic Programming
-      - [ ] Optimal Strategy Game Pick from Ends of array Dynamic Programming
-      - [ ] Palindrome Partition Dynamic Programming
-      - [ ] Maximum Sub Square Matrix Dynamic Programming
-      - [ ] Burst Balloon Dynamic Programming [Leetcode]
-      - [ ] Box Stacking Dynamic Programming
-      - [ ] Staircase Problem Fibonacci Series
-      - [ ] Maximum Sum Increasing Subsequence Dynamic Programming
-      - [ ] Maximum Sum Subsequence Non-Adjacent
-      - [ ] String Interleaving Dynamic Programming
-      - [ ] Count Number of Binary Search Tree Possible given n keys Dynamic Programming
-      - [ ] Total Ways in Matrix Dynamic Programming
-      - [ ] 0/1 Knapsack Problem Top Down Dynamic Programming
-      - [ ] Longest Bitonic Subsequence
-      - [ ] Coin Change Top down dynamic programming
-      - [ ] Numbers WIthout Consecutive 1s in binary representation
-      - [ ] Sum Query in 2D Immutable Array Dynamic Programming
-      - [ ] Maximum Subsquare With Sides as X
-      - [ ] Count Number of Binary Tree Possible given Preorder Sequence length dynamic programming
-
+      1. [x] 0/1 Knapsack Problem Dynamic Programming
+      2. [x] Longest Common Subsequence
+      3. [x] Subset Sum Problem Dynamic Programming
+      4. [x] Matrix Chain Multiplication
+      5. [x] Coin Changing Minimum Number of Coins Dynamic programming
+      6. [x] Minimum Edit Distance Dynamic Programming
+      7. [x] Longest Increasing Subsequence
+      8. [ ] Optimal Binary Search Tree
+      9. [ ] Longest Palindromic Subsequence
+      13. [x] Coin Changing Number of ways to get total dynamic programming
+      18. [x] Longest Common Substring
+      22. [x] Minimum Cost Path Dynamic Programming
+      16. [x] Maximum Size Rectangle of All 1's Dynamic Programming
+      10. [ ] Cutting Rod dynamic programming
+      11. [ ] Regular Expression Dynamic Programming
+      12. [ ] Coin Changing Minimum Coins Dynamic Programming
+      14. [ ] Egg Dropping Dynamic Programming
+      15. [ ] Maximum Sum Rectangular Submatrix in Matrix dynamic programming/2D kadane
+      17. [ ] Weighted Job Scheduling Dynamic Programming
+      19. [ ] Word Break Problem Dynamic Programming
+      20. [ ] Buy/Sell Stock With K transactions To Maximize Profit Dynamic Programming
+      21. [ ] Minimum jump to reach end
+      23. [ ] Wildcard Matching Dynamic Programming
+      24. [ ] Text Justification Dynamic Programming
+      25. [ ] Optimal Strategy Game Pick from Ends of array Dynamic Programming
+      26. [ ] Palindrome Partition Dynamic Programming
+      27. [ ] Maximum Sub Square Matrix Dynamic Programming
+      28. [ ] Burst Balloon Dynamic Programming [Leetcode]
+      29. [ ] Box Stacking Dynamic Programming
+      30. [ ] Staircase Problem Fibonacci Series
+      31. [ ] Maximum Sum Increasing Subsequence Dynamic Programming
+      32. [ ] Maximum Sum Subsequence Non-Adjacent
+      33. [ ] String Interleaving Dynamic Programming
+      34. [ ] Count Number of Binary Search Tree Possible given n keys Dynamic Programming
+      35. [ ] Total Ways in Matrix Dynamic Programming
+      36. [ ] 0/1 Knapsack Problem Top Down Dynamic Programming
+      37. [ ] Longest Bitonic Subsequence
+      38. [ ] Coin Change Top down dynamic programming
+      39. [ ] Numbers WIthout Consecutive 1s in binary representation
+      40. [ ] Sum Query in 2D Immutable Array Dynamic Programming
+      41. [ ] Maximum Subsquare With Sides as X
+      42. [ ] Count Number of Binary Tree Possible given Preorder Sequence length dynamic programming
 
   - [ ] Yale Lecture notes:
     - [ ] [Dynamic Programming](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#dynamicProgramming)
