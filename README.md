@@ -923,21 +923,21 @@ Graphs can be used to represent many problems in computer science, so this secti
       5. [x] Coin Changing Minimum Number of Coins Dynamic programming
       6. [x] Minimum Edit Distance Dynamic Programming
       7. [x] Longest Increasing Subsequence
-      8. [ ] Optimal Binary Search Tree
-      9. [ ] Longest Palindromic Subsequence
-      13. [x] Coin Changing Number of ways to get total dynamic programming
-      18. [x] Longest Common Substring
-      22. [x] Minimum Cost Path Dynamic Programming
-      16. [x] Maximum Size Rectangle of All 1's Dynamic Programming
+      8. [x] Optimal Binary Search Tree
+      9. [x] Longest Palindromic Subsequence
       10. [ ] Cutting Rod dynamic programming
       11. [ ] Regular Expression Dynamic Programming
       12. [ ] Coin Changing Minimum Coins Dynamic Programming
+      13. [x] Coin Changing Number of ways to get total dynamic programming
       14. [ ] Egg Dropping Dynamic Programming
       15. [ ] Maximum Sum Rectangular Submatrix in Matrix dynamic programming/2D kadane
+      16. [x] Maximum Size Rectangle of All 1's Dynamic Programming
       17. [ ] Weighted Job Scheduling Dynamic Programming
+      18. [x] Longest Common Substring
       19. [ ] Word Break Problem Dynamic Programming
       20. [ ] Buy/Sell Stock With K transactions To Maximize Profit Dynamic Programming
       21. [ ] Minimum jump to reach end
+      22. [x] Minimum Cost Path Dynamic Programming
       23. [ ] Wildcard Matching Dynamic Programming
       24. [ ] Text Justification Dynamic Programming
       25. [ ] Optimal Strategy Game Pick from Ends of array Dynamic Programming
