@@ -190,7 +190,7 @@ It's a long plan. It may take you months. If you are familiar with a lot of this
 
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
-I'm using Github's special markdown flavor, including tasks lists to check progress.
+I'm using GitHub's special markdown flavor, including tasks lists to track progress.
 
 **Create a new branch so you can check items like this, just put an x in the brackets: [x]**
 
@@ -220,7 +220,7 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 
 `git push --force`
 
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+[More about GitHub-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Don't feel you aren't smart enough
 
@@ -1356,6 +1356,7 @@ Language-learning sites, with challenges:
 - [HackerEarth](https://www.hackerearth.com/)
 - [Sphere Online Judge (spoj)](http://www.spoj.com/)
 - [Codechef](https://www.codechef.com/)
+- [Codeforces](https://codeforces.com/)
 
 Challenge repos:
 
@@ -1376,6 +1377,8 @@ Mock Interviews:
 ## Your Resume
 
 - See Resume prep items in Cracking The Coding Interview and back of Programming Interviews Exposed
+- Very Important thing to remember while creating your resume, if you applying for big companies is that make it ATS Complaint. 
+- [How to Create or Check if your Resume is ATS Complaint](https://ayedot.com/97/MiniBlog/Meaning-of-ATS-compliant-resume-and-How-to-create-ATS-Resume-for-Free)
 
 ## Be thinking of for when the interview comes
 
