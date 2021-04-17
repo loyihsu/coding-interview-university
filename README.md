@@ -943,11 +943,11 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [x] singleton
     - [ ] adapter
     - [ ] prototype
-    - [ ] decorator
+    - [x] decorator
     - [ ] visitor
     - [ ] factory, abstract factory
     - [ ] facade
-    - [ ] observer
+    - [x] observer
     - [ ] proxy
     - [ ] delegate
     - [ ] command
