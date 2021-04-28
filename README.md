@@ -941,7 +941,7 @@ Graphs can be used to represent many problems in computer science, so this secti
   - [ ] Learn these patterns:
     - [x] strategy
     - [x] singleton
-    - [ ] adapter
+    - [x] adapter
     - [ ] prototype
     - [x] decorator
     - [ ] visitor
