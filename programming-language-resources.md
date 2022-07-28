@@ -2,7 +2,7 @@
 
 - C
   - [ANSI C Cheat Sheet](<https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf>)
-  - K&R C book (ANSI C)
+  - [K&R C book (ANSI C)](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
   - [Make, Clang (video)](https://www.youtube.com/watch?v=U3zCxnj2w8M)
   - GDB:
     - [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=USPvePv1uzE)
@@ -33,6 +33,7 @@
   - [Review of C++ concepts (video)](https://www.youtube.com/watch?v=Rub-JsjMhWY)
   - [Let us C++](https://books.google.co.in/books/about/Let_Us_C++.html?id=6HrjAAAACAAJ)
   - [C++ Primer](https://books.google.co.in/books/about/C++_Primer.html?id=J1HMLyxqJfgC&redir_esc=y)
+  - [C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 - Python
   - [Python Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
   - [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
@@ -45,9 +46,9 @@
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   - [Coding Interview Essentials](https://github.com/ajinkyal121/coding-interview-university/blob/master/extras/cheat%20sheets/Coding%20Interview%20Python%20Language%20Essentials.pdf)
   - [Data Structures And Algorithms in Python](https://www.youtube.com/watch?v=kQDxmjfkIKY)
+  - [Python Programming Tutorial](https://www.scaler.com/topics/python/)
 - Java
   - [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
-  - [Software Construction In Java (video)](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
   - [Introduction To Programming In Java](http://introcs.cs.princeton.edu/java/home/)
   - [Algorithms 4th Ed - Algorithm Book In Java](http://algs4.cs.princeton.edu/home/)
   - [Effective Java 3rd Edition](https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook/dp/B078H61SCH)
